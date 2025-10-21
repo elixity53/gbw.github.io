@@ -616,30 +616,30 @@ class GentleBearKnifeworks {
             {
                 id: 3,
                 title: "Grizzly Cu-Mai",
-                description: "1084 Carbon Steel • Black Walnut Handle • 9 inches",
-                image: "https://kimi-web-img.moonshot.cn/img/cdn.shopify.com/d1320db6dc02e4f545adb9eec3b1525ed13dffb3.webp",
-                type: "hunting"
+                description: "1084 Carbon Steel • Thuya Burl Handle • Copper Liners",
+                image: "rescources/1000011845.jpg",
+                type: "Custom"
             },
             {
                 id: 4,
-                title: "Mountain Survival Blade",
-                description: "1095 Steel • Thuya Burl Handle • Copper Liners",
+                title: "Cu-Mai",
+                description: "1095 Carbon Steel • No Handle • Copper Liners",
                 image: "https://kimi-web-img.moonshot.cn/img/aaknives.eu/66fc661c0de58dd9ab3c9b3e1516f2498f644e04.jpg",
                 type: "Custom"
             },
             {
                 id: 5,
-                title: "Kitchen Master Santoku",
-                description: "Hand-forged Damascus • Rosewood Handle • 7 inches",
+                title: "2025 GB-EDC",
+                description: "1096 Carbon Steel • Box Elder Burl Handle • Mosaic Pins",
                 image: "https://kimi-web-img.moonshot.cn/img/aaknives.eu/02718d6afdc93f82e78982cc0ededaab7d39f8d1.jpg",
-                type: "kitchen"
+                type: "Custom"
             },
             {
                 id: 6,
-                title: "The Trailblazer",
-                description: "1095 Carbon Steel • Stag Horn Handle • 8 inches",
+                title: "Black Etch Cu-Mai",
+                description: "1095 Carbon Steel • OD Green G10 Handle • Copper Liners",
                 image: "https://kimi-web-img.moonshot.cn/img/tek-speed.com/bb65fca5db971fed21dfe760fc776942763a4a5e.jpg",
-                type: "outdoor"
+                type: "Custom"
             }
         ];
     }
