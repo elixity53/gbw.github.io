@@ -594,7 +594,7 @@ class GentleBearKnifeworks {
                 id: 1,
                 title: "Kodiak Skinner",
                 description: "1095 High Carbon Steel • Black Ebony Handle • Copper Liners",
-                image: "rescources/1000010689.jpg",
+                image: "rescources/1095skinner.jpg",
                 type: "Hunting"
             },
             {
@@ -628,6 +628,13 @@ class GentleBearKnifeworks {
             {
                 id: 6,
                 title: "Black Etch Cu-Mai",
+                description: "1095 Carbon Steel • OD Green G10 Handle • Copper Liners",
+                image: "rescources/1000011459.jpg",
+                type: "Custom"
+            },
+            {
+                id: 7,
+                title: "ADD NAME",
                 description: "1095 Carbon Steel • OD Green G10 Handle • Copper Liners",
                 image: "rescources/1000011459.jpg",
                 type: "Custom"
