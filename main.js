@@ -634,10 +634,24 @@ class GentleBearKnifeworks {
             },
             {
                 id: 7,
-                title: "ADD NAME",
-                description: "1095 Carbon Steel • OD Green G10 Handle • Copper Liners",
+                title: "Long Shadowclaw",
+                description: "1095 Carbon Steel • Black and Rhino Grey Micarta Handle • Black G10 Pins",
                 image: "rescources/1000011459.jpg",
                 type: "Custom"
+            },
+              {
+                id: 8,
+                title: "Short Shadowclaw",
+                description: "1095 Carbon Steel • Black G10 Handle • G10 Pins",
+                image: "rescources/1000012108.jpg",
+                type: "Custom"
+            },
+              {
+                id: 9,
+                title: "GB Skinner",
+                description: "1095 Carbon Steel • Black and OD green G10 Micarta • Aluminum pins",
+                image: "rescources/1000012108.jpg",
+                type: "Hunting"
             }
         ];
     }
