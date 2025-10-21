@@ -601,10 +601,10 @@ class GentleBearKnifeworks {
         return [
             {
                 id: 1,
-                title: "The Ember Hunter",
-                description: "1095 High Carbon Steel • Desert Ironwood Handle • 8.5 inches",
-                image: "https://kimi-web-img.moonshot.cn/img/aaknives.eu/fbbd1d79fa131aa2c1b81d5bfb7ed18a13531e19.jpg",
-                type: "all"
+                title: "Kodiak Skinner",
+                description: "1095 High Carbon Steel • Black Ebony Handle • Copper Liners",
+                image: "rescources/1000010689.jpg",
+                type: "Hunting"
             },
             {
                 id: 2,
