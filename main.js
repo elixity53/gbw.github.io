@@ -631,7 +631,7 @@ class GentleBearKnifeworks {
                 id: 5,
                 title: "2025 GB-EDC",
                 description: "1096 Carbon Steel • Box Elder Burl Handle • Mosaic Pins",
-                image: "https://kimi-web-img.moonshot.cn/img/aaknives.eu/02718d6afdc93f82e78982cc0ededaab7d39f8d1.jpg",
+                image: "rescources/1000012108.jpg",
                 type: "Custom"
             },
             {
