@@ -282,15 +282,6 @@ class GentleBearKnifeworks {
     }
 
     openLightbox(knife) {
-        // Use available fields and provide fallbacks
-        const title = knife.title || knife.name || 'Knife';
-        const description = knife.description || '';
-        const steel = knife.steel || 'Unknown';
-        const handle = knife.handle || 'Unknown';
-        const length = knife.length || 'N/A';
-        const type = knife.type || 'Custom';
-        const imageSrc = knife.image || '';
-
         const lightbox = document.createElement('div');
         lightbox.className = 'lightbox-overlay fixed inset-0 bg-black bg-opacity-90 flex items-center justify-center z-50';
         lightbox.innerHTML = `
