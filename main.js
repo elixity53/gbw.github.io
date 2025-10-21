@@ -594,7 +594,7 @@ class GentleBearKnifeworks {
                 id: 1,
                 title: "Kodiak Skinner",
                 description: "1095 High Carbon Steel • Black Ebony Handle • Copper Liners",
-                image: "rescources/1095skinner.jpg",
+                image: "rescources/1095Skinner.jpg",
                 type: "Hunting"
             },
             {
