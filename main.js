@@ -599,9 +599,9 @@ class GentleBearKnifeworks {
             },
             {
                 id: 2,
-                title: "Grizzly Design",
+                title: "Forged Grizzly",
                 description: "Hand-forged Damascus • Black Ebony Handle • Turqoise accents",
-                image: "rescources/1000011909.jpg",
+                image: "rescources/GrizzlyDamascus.jpg",
                 type: "Custom"
             },
             {
