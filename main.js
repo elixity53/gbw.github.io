@@ -613,9 +613,9 @@ class GentleBearKnifeworks {
             },
             {
                 id: 4,
-                title: "Cu-Mai",
+                title: "(Top 2) Forged Grizzly (Bottom) Short Shadowclaw",
                 description: "1095 Carbon Steel • No Handle • Copper Liners",
-                image: "rescources/1000011416.jpg",
+                image: "rescources/Grizzly-Shadowclaw.jpg",
                 type: "Custom"
             },
             {
