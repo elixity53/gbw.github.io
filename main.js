@@ -636,7 +636,7 @@ class GentleBearKnifeworks {
                 id: 7,
                 title: "Long Shadowclaw",
                 description: "1095 Carbon Steel • Black and Rhino Grey Micarta Handle • Black G10 Pins",
-                image: "rescources/1000011459.jpg",
+                image: "rescources/LongShadowclaw.jpg",
                 type: "Custom"
             },
               {
