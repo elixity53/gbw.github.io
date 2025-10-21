@@ -643,14 +643,14 @@ class GentleBearKnifeworks {
                 id: 8,
                 title: "Short Shadowclaw",
                 description: "1095 Carbon Steel • Black G10 Handle • G10 Pins",
-                image: "rescources/1000012108.jpg",
+                image: "rescources/GBSkinner.jpg",
                 type: "Custom"
             },
               {
                 id: 9,
                 title: "GB Skinner",
                 description: "1095 Carbon Steel • Black and OD green G10 Micarta • Aluminum pins",
-                image: "rescources/1000012108.jpg",
+                image: "rescources/ShortShadowclawNew.jpg",
                 type: "Hunting"
             }
         ];
