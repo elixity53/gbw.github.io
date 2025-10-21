@@ -627,9 +627,9 @@ class GentleBearKnifeworks {
             },
             {
                 id: 6,
-                title: "Black Etch Cu-Mai",
+                title: "Short Shadowclaw (Copper)",
                 description: "1095 Carbon Steel • OD Green G10 Handle • Copper Liners",
-                image: "rescources/1000011459.jpg",
+                image: "rescources/ShortShadowclaw.jpg",
                 type: "Custom"
             },
             {
