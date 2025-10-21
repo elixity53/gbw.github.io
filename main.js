@@ -624,7 +624,7 @@ class GentleBearKnifeworks {
                 id: 4,
                 title: "Cu-Mai",
                 description: "1095 Carbon Steel • No Handle • Copper Liners",
-                image: "https://kimi-web-img.moonshot.cn/img/aaknives.eu/66fc661c0de58dd9ab3c9b3e1516f2498f644e04.jpg",
+                image: "rescources/1000011416.jpg",
                 type: "Custom"
             },
             {
