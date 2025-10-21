@@ -608,14 +608,14 @@ class GentleBearKnifeworks {
             },
             {
                 id: 2,
-                title: "Damascus Chef's Pride",
-                description: "Hand-forged Damascus • Micarta Composite Handle • 10 inches",
-                image: "https://kimi-web-img.moonshot.cn/img/cdn.shopify.com/0b04f3e57473cc8f0b41177b0a8ee348a9d27f8c.jpg",
-                type: "kitchen"
+                title: "Grizzly Design",
+                description: "Hand-forged Damascus • Black Ebony Handle • Turqoise accents",
+                image: "rescources/1000011909.jpg",
+                type: "Custom"
             },
             {
                 id: 3,
-                title: "The Gentle Bear",
+                title: "Grizzly Cu-Mai",
                 description: "1084 Carbon Steel • Black Walnut Handle • 9 inches",
                 image: "https://kimi-web-img.moonshot.cn/img/cdn.shopify.com/d1320db6dc02e4f545adb9eec3b1525ed13dffb3.webp",
                 type: "hunting"
@@ -623,9 +623,9 @@ class GentleBearKnifeworks {
             {
                 id: 4,
                 title: "Mountain Survival Blade",
-                description: "15N20 Steel • Micarta Canvas Handle • 11 inches",
+                description: "1095 Steel • Thuya Burl Handle • Copper Liners",
                 image: "https://kimi-web-img.moonshot.cn/img/aaknives.eu/66fc661c0de58dd9ab3c9b3e1516f2498f644e04.jpg",
-                type: "survival"
+                type: "Custom"
             },
             {
                 id: 5,
