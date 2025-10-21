@@ -577,26 +577,6 @@ class GentleBearKnifeworks {
         }
     }
 
-    loadGalleryData() {
-        // Try to load photos from admin interface
-        const storedPhotos = localStorage.getItem('knifePhotos');
-        
-        if (storedPhotos) {
-            try {
-                this.galleryData = JSON.parse(storedPhotos);
-                console.log(`Loaded ${this.galleryData.length} photos from admin interface`);
-            } catch (error) {
-                console.error('Error loading stored photos:', error);
-                this.galleryData = this.getDefaultGalleryData();
-            }
-        } else {
-            this.galleryData = this.getDefaultGalleryData();
-        }
-
-        // keep legacy property in sync
-        this.knifeData = this.galleryData;
-    }
-
     getDefaultGalleryData() {
         return [
             {
