@@ -638,7 +638,7 @@ class GentleBearKnifeworks {
                 id: 6,
                 title: "Black Etch Cu-Mai",
                 description: "1095 Carbon Steel • OD Green G10 Handle • Copper Liners",
-                image: "https://kimi-web-img.moonshot.cn/img/tek-speed.com/bb65fca5db971fed21dfe760fc776942763a4a5e.jpg",
+                image: "rescources/1000011459.jpg",
                 type: "Custom"
             }
         ];
