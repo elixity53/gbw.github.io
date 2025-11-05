@@ -613,7 +613,7 @@ class GentleBearKnifeworks {
             },
             {
                 id: 4,
-                title: "(Top 2) Forged Grizzly (Bottom) Short Shadowclaw",
+                title: "(Top 2) Damascus Grizzly (Bottom) Short Shadowclaw",
                 description: "1095 Carbon Steel • No Handle • Copper Liners",
                 image: "rescources/Grizzly-Shadowclaw.jpg",
                 type: "Custom"
