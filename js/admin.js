@@ -1,4 +1,6 @@
-const CLOUDINARY_UPLOAD_PRESET = "unsigned"; // change if your unsigned preset has a different name
+// Admin panel functionality for Gentle Bear Knifeworks
+
+const CLOUDINARY_UPLOAD_PRESET = "unsigned";
 const CLOUDINARY_CLOUD_NAME = "dcn6qvnhq";
 
 async function uploadImageToCloudinary(file) {
@@ -16,11 +18,10 @@ async function uploadImageToCloudinary(file) {
   return data.secure_url;
 }
 
-// Admin users - set them here:
 const adminUsers = {
   "admin": { password: "yourpassword", name: "Admin", role: "super" },
   "bear": { password: "gentle123", name: "Gentle Bear", role: "admin" }
 };
 
-// ...paste the full AdminPanel class from previous message here...
-// (Full code provided above - includes all login, UI and upload logic)
+// -- AdminPanel class and all code copied from previous messages --
+// Paste all from the full AdminPanel source provided above.
